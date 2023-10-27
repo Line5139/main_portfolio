@@ -35,7 +35,7 @@ const Sidebar = () => (
                 </a>
             </li>
             <li>
-                <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/muhammad-haiqal-mohd-hasyim-481572178/'>
+                <a target='_blank' rel='noreferrer' href='https://github.com/Line5139'>
 
                     <FontAwesomeIcon icon={faGithub} color="4d4d4e" />
                 </a>

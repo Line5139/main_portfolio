@@ -33,14 +33,23 @@ const About = () => {
                             idx={15}
                         />
                     </h1>
-                
-                    <p>I'm a curious individual from
-                        South East Asia looking to explore the world of technology</p>
-                
-                    <p>I'm looking to land a well established role in a MnC tech Company. Being able to provide my knowledge and skillset to
-                        help better the world is an ultimate achievement</p>
-                
-                    <p></p>
+                    <div className="desc-text">
+                            
+                        <p>Hello! I'm Haiqal, a Computer Science graduate from the University of Iowa with a fervor for technology. 
+                            My passion for Frontend Web Design was ignited when I designed a website for my college, and I've since mastered skills in CSS, HTML, JavaScript, as well as frameworks like ReactJs, AngularJs, Bootstrap, and EmailJS. 
+                           </p>
+                    
+                        <p>Alongside my tech journey, I've gained leadership insights from 1.5 years as a Multi-Unit Store Manager for Panda Express and innovated with 
+                            Python by developing a Sampling Script method. I'm eager to delve deeper into web design and collaborate on groundbreaking projects!</p>
+                    
+                        <div className="p-highlights">
+                            <p> 
+                            Python, C++, C#, Java, Javascript
+                            </p>
+
+                        </div>
+                        
+                    </div>
                 </div>
 
                 <div className='stage-cube-cont'>

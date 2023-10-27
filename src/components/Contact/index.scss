@@ -41,19 +41,19 @@
         background: #e1e5f2;
         height: 50px;
         font-size: 16px;
-        color: #8b8b8d;
+        color: #022b3a;
         padding: 0 20px;
         box-sizing: border-box;
-        border: 2px solid #4444;
+        border: 1px solid #022b3a;
     }
 
     textarea{
         width: 100%;
-        border: 2px solid #4444;
+        border: 1px solid #022b3a;
         background: #e1e5f2;
         height: 50px;
         font-size: 16px;
-        color: #8b8b8d;
+        color: #022b3a;
         padding: 20px;
         min-height: 150px;
         box-sizing: border-box;
@@ -74,7 +74,7 @@
 
 .info-map{
     position: absolute;
-    background-color: #e1e5f2;
+    background-color: #ffff;
     top: 50px;right: 30%;
     z-index: 999999;
     width: 267px;
@@ -87,6 +87,7 @@
     animation: fadeIn 1s 1.5s;
     animation-fill-mode: forwards;
     border-radius: 4px;
+    border: 1px solid #1f7a8c;
 
     span{
         font-size: 16px;
@@ -101,6 +102,7 @@
     float: right;
     width: 53%;
     height: 100%;
+    border: 1px solid #022b3a;
 }
 
 .leaflet-container {
@@ -116,7 +118,6 @@
 
 .description{
     font-family: 'sans-serif';
-    font-size: 14px;
+    font-size: 16px;
     font-weight: light;
-    color: #8b8b8d;
 }
